@@ -12,8 +12,6 @@
 - clone repo
 - `composer install`
 - setting .env for mysql database connection
+- setting .env for facebook api
 - `php artisan migrate`
-- `php artisan seed`
-- /public/api/posts/proximity api url
-
-also you can look at screenshots at the `screenshots` project sub-folder
+- /public/api/q/{query} api url
